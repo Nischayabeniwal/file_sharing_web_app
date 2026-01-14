@@ -140,3 +140,10 @@ sha256sum downloaded_file
 - **This app is for demonstration/educational use.** For production, add HTTPS, file size/type restrictions, and further hardening.
 
 ---
+## Future Scope
+- Move encryption and decryption to the client side so the server never sees plaintext data or encryption keys.
+- Implement true end-to-end encrypted file sharing, allowing files to be shared securely using passwords or public keys.
+- Extend the system to support secure, encrypted text messaging using the same encryption model.
+- Improve key management by introducing asymmetric encryption for secure key exchange and access control.
+- Enhance scalability and usability by adding better UI, metadata storage, and basic security hardening (limits, validations, HTTPS).
+
