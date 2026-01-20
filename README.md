@@ -1,6 +1,6 @@
 # Secure File Sharing Web App
 
-A minimal, secure file sharing web application built with Flask.  
+A minimal and  secure file sharing web application built with Flask.  
 Files are encrypted client-side with a user-provided password using AES-256-CBC.  
 No user accounts or database required—just per-file passwords.
 
